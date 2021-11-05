@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.language">
+    package="com.saksonobayu.language">
 
     <application
         android:allowBackup="true"
@@ -9,15 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.PersiapanUTS">
-        <activity android:name="com.example.language.DetailActivity"></activity>
-        <activity android:name="com.example.language.MainActivity">
+        <activity android:name="com.saksonobayu.language.DetailActivity"></activity>
+        <activity android:name="com.saksonobayu.language.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.language.SplashScreenActivity" />
+        <activity android:name="com.saksonobayu.language.SplashScreenActivity" />
     </application>
 
 </manifest>

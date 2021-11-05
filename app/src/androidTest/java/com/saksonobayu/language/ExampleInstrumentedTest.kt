@@ -1,4 +1,4 @@
-package com.example.language
+package com.saksonobayu.language
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
